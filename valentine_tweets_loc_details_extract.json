@@ -1,0 +1,628 @@
+{
+    "data": [
+        {
+            "user_id": 1170960878856003584, 
+            "features": {
+                "screen_name": "TheOne64977671", 
+                "location": "Huddersfield, England", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Huddersfield, England", 
+                "id": 1170960878856003584, 
+                "name": "The One"
+            }
+        }, 
+        {
+            "user_id": 502762980, 
+            "features": {
+                "screen_name": "jimgblair", 
+                "location": "London EUROPE", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "London EUROPE", 
+                "id": 502762980, 
+                "name": "Jim Blair"
+            }
+        }, 
+        {
+            "user_id": 16985721, 
+            "features": {
+                "screen_name": "PMonkey", 
+                "location": "Altered State", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Altered State", 
+                "id": 16985721, 
+                "name": "PMonkey"
+            }
+        }, 
+        {
+            "user_id": 895671100989767682, 
+            "features": {
+                "screen_name": "yo2nsu", 
+                "location": "\ub300\ud55c\ubbfc\uad6d \uc778\ucc9c", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "\ub300\ud55c\ubbfc\uad6d \uc778\ucc9c", 
+                "id": 895671100989767682, 
+                "name": "\u3147\u3145"
+            }
+        }, 
+        {
+            "user_id": 719995349889191936, 
+            "features": {
+                "screen_name": "urbeautifulbox", 
+                "location": "New Jersey, USA", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "New Jersey, USA", 
+                "id": 719995349889191936, 
+                "name": "YouAreBeautifulBox"
+            }
+        }, 
+        {
+            "user_id": 889048132004216832, 
+            "features": {
+                "screen_name": "CharmainCshep", 
+                "location": "Uk", 
+                "tweets": 2, 
+                "geo_type": "User location", 
+                "primary_geo": "Uk", 
+                "id": 889048132004216832, 
+                "name": "Charmaine"
+            }
+        }, 
+        {
+            "user_id": 727642814482259969, 
+            "features": {
+                "screen_name": "blondie_braaps", 
+                "location": "New Port Richey, FL", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "New Port Richey, FL", 
+                "id": 727642814482259969, 
+                "name": "Blondie_Braaps"
+            }
+        }, 
+        {
+            "user_id": 69502724, 
+            "features": {
+                "screen_name": "JhayEyeglasses", 
+                "location": "PH\u00d7HK", 
+                "tweets": 1, 
+                "geo_type": "Tweet coordinates", 
+                "primary_geo": "22.27594226, 114.17253971", 
+                "id": 69502724, 
+                "name": "Jhay Eyeglasses"
+            }
+        }, 
+        {
+            "user_id": 269733441, 
+            "features": {
+                "screen_name": "BistroLeCoq", 
+                "location": "Stafford, Staffordshire", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Stafford, Staffordshire", 
+                "id": 269733441, 
+                "name": "The Cock at Stowe"
+            }
+        }, 
+        {
+            "user_id": 1088497554461990913, 
+            "features": {
+                "screen_name": "NataliaPavlenk5", 
+                "location": "Kharkov", 
+                "tweets": 2, 
+                "geo_type": "User location", 
+                "primary_geo": "Kharkov", 
+                "id": 1088497554461990913, 
+                "name": "Natalia Pavlenko"
+            }
+        }, 
+        {
+            "user_id": 1419185580, 
+            "features": {
+                "screen_name": "4WTC", 
+                "location": "Lower Manhattan, New York, USA", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Lower Manhattan, New York, USA", 
+                "id": 1419185580, 
+                "name": "World Trade Center"
+            }
+        }, 
+        {
+            "user_id": 1113320407732350976, 
+            "features": {
+                "screen_name": "Saranallu_A", 
+                "location": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd", 
+                "tweets": 2, 
+                "geo_type": "User location", 
+                "primary_geo": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8\u0ba4\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd", 
+                "id": 1113320407732350976, 
+                "name": "\u0b9a\u0bb0\u0ba3\u0bcd\u0baf\u0bbe Alaks \ud83c\uddf1\ud83c\uddf0"
+            }
+        }, 
+        {
+            "user_id": 16897352, 
+            "features": {
+                "screen_name": "rogueclassicist", 
+                "location": "burlington, ontario, canada", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "burlington, ontario, canada", 
+                "id": 16897352, 
+                "name": "rogueclassicist"
+            }
+        }, 
+        {
+            "user_id": 825894596966305793, 
+            "features": {
+                "screen_name": "vervesrliving", 
+                "location": "Mississauga, Ontario", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Mississauga, Ontario", 
+                "id": 825894596966305793, 
+                "name": "Verve Senior Living"
+            }
+        }, 
+        {
+            "user_id": 3649356973, 
+            "features": {
+                "screen_name": "_reme_p", 
+                "location": "\u9ece\u660e\u30d7\u30ed\u30c0\u30af\u30b7\u30e7\u30f3", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "\u9ece\u660e\u30d7\u30ed\u30c0\u30af\u30b7\u30e7\u30f3", 
+                "id": 3649356973, 
+                "name": "\ub808\uba54 R\u00e9m\u00e9"
+            }
+        }, 
+        {
+            "user_id": 1229653185695870978, 
+            "features": {
+                "screen_name": "jwooasap", 
+                "location": "zeus", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "zeus", 
+                "id": 1229653185695870978, 
+                "name": "\uc9f9\uc9f9\uc774 \u2070\u2075"
+            }
+        }, 
+        {
+            "user_id": 779680438444969984, 
+            "features": {
+                "screen_name": "korkao6144", 
+                "location": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22", 
+                "id": 779680438444969984, 
+                "name": "\u0e19\u0e34\u0e49\u0e27\u0e19\u0e32\u0e07"
+            }
+        }, 
+        {
+            "user_id": 1256691300, 
+            "features": {
+                "screen_name": "DeepsGoel", 
+                "location": "India", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "India", 
+                "id": 1256691300, 
+                "name": "Deepika Goel"
+            }
+        }, 
+        {
+            "user_id": 1217065474149748746, 
+            "features": {
+                "screen_name": "Amywill09261630", 
+                "location": "Nottingham", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Nottingham", 
+                "id": 1217065474149748746, 
+                "name": "Amy \ud83c\udf3b\ud83c\udf3a"
+            }
+        }, 
+        {
+            "user_id": 1054779211515392001, 
+            "features": {
+                "screen_name": "Heydar34407147", 
+                "location": "Iraq", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Iraq", 
+                "id": 1054779211515392001, 
+                "name": "\u062d\u0633\u0627\u0645 \u0627\u0644\u0639\u0631\u0627\u0642\u064a"
+            }
+        }, 
+        {
+            "user_id": 1079733481926582273, 
+            "features": {
+                "screen_name": "FontenotMykal", 
+                "location": "My Van", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "My Van", 
+                "id": 1079733481926582273, 
+                "name": "DangerContaminated"
+            }
+        }, 
+        {
+            "user_id": 374217776, 
+            "features": {
+                "screen_name": "kthnxbyeeeee", 
+                "location": " USA", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": " USA", 
+                "id": 374217776, 
+                "name": "\u2606 melinda \u30c4\u2606"
+            }
+        }, 
+        {
+            "user_id": 1212948758469545984, 
+            "features": {
+                "screen_name": "arohi_bintii", 
+                "location": "\ud83c\udde7\ud83c\udde9", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "\ud83c\udde7\ud83c\udde9", 
+                "id": 1212948758469545984, 
+                "name": "Binti \u2661 SidRa"
+            }
+        }, 
+        {
+            "user_id": 1197169556701073408, 
+            "features": {
+                "screen_name": "KotwalSwati", 
+                "location": "Jammu", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Jammu", 
+                "id": 1197169556701073408, 
+                "name": "Swati Singh (SidHearts) \u2665\ufe0f"
+            }
+        }, 
+        {
+            "user_id": 817817248689754113, 
+            "features": {
+                "screen_name": "debsyolo", 
+                "location": "Assam, India", 
+                "tweets": 3, 
+                "geo_type": "User location", 
+                "primary_geo": "Assam, India", 
+                "id": 817817248689754113, 
+                "name": "Devangi\ud83c\udf38"
+            }
+        }, 
+        {
+            "user_id": 1963880448, 
+            "features": {
+                "screen_name": "DarienJerrel", 
+                "location": "Tacoma, WA", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Tacoma, WA", 
+                "id": 1963880448, 
+                "name": "Senpai Sensei"
+            }
+        }, 
+        {
+            "user_id": 917602859314753536, 
+            "features": {
+                "screen_name": "Samanth49731715", 
+                "location": "Erie PA", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Erie PA", 
+                "id": 917602859314753536, 
+                "name": "Samantha"
+            }
+        }, 
+        {
+            "user_id": 1210905662504329221, 
+            "features": {
+                "screen_name": "Rosesharma_", 
+                "location": "India", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "India", 
+                "id": 1210905662504329221, 
+                "name": "\ud83e\udd40 S A C H I N \ud83e\udd40"
+            }
+        }, 
+        {
+            "user_id": 1202140231920521222, 
+            "features": {
+                "screen_name": "Rashamifan7", 
+                "location": "Odisha , India", 
+                "tweets": 2, 
+                "geo_type": "User location", 
+                "primary_geo": "Odisha , India", 
+                "id": 1202140231920521222, 
+                "name": "monalisa\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83d\udc95"
+            }
+        }, 
+        {
+            "user_id": 1196892417061871616, 
+            "features": {
+                "screen_name": "Tarun30111997", 
+                "location": "Ballia, India", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Ballia, India", 
+                "id": 1196892417061871616, 
+                "name": "Tarun \u2764\ufe0fSid\u2764\ufe0f"
+            }
+        }, 
+        {
+            "user_id": 906029333323563009, 
+            "features": {
+                "screen_name": "ivela_youth_am", 
+                "location": "Pondicherry", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Pondicherry", 
+                "id": 906029333323563009, 
+                "name": "\ud83d\udd25\u0b85\u0bb1\u0bbf\u0bb5\u0bc7_\u0bb2\u0bcd_\u0b86\u0baf\u0bc1\u0ba4\u0bae\u0bcd"
+            }
+        }, 
+        {
+            "user_id": 3177052313, 
+            "features": {
+                "screen_name": "sjr_suraj", 
+                "location": "India", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "India", 
+                "id": 3177052313, 
+                "name": "Suraj sjr"
+            }
+        }, 
+        {
+            "user_id": 1217806282838761472, 
+            "features": {
+                "screen_name": "PaRiDhaliwal2", 
+                "location": "The Netherlands", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "The Netherlands", 
+                "id": 1217806282838761472, 
+                "name": "PaRi Dhaliwal (PaRiCreation)/(SidRa)"
+            }
+        }, 
+        {
+            "user_id": 347915401, 
+            "features": {
+                "screen_name": "ZJMAFFIA", 
+                "location": "LONDON", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "LONDON", 
+                "id": 347915401, 
+                "name": "Real Mafioso"
+            }
+        }, 
+        {
+            "user_id": 751086790220611584, 
+            "features": {
+                "screen_name": "shivamj83681649", 
+                "location": "Ambaji,Gujarat ", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Ambaji,Gujarat ", 
+                "id": 751086790220611584, 
+                "name": "SY Joshi"
+            }
+        }, 
+        {
+            "user_id": 1212136832097382400, 
+            "features": {
+                "screen_name": "PulkitBedi2", 
+                "location": "Punjab, India", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Punjab, India", 
+                "id": 1212136832097382400, 
+                "name": "Pulkit Bedi"
+            }
+        }, 
+        {
+            "user_id": 1227738464579395584, 
+            "features": {
+                "screen_name": "blue_sadistic", 
+                "location": "Leeds/ Manchester, England", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Leeds/ Manchester, England", 
+                "id": 1227738464579395584, 
+                "name": "Sadistic_blue $4.99 free trials right now"
+            }
+        }, 
+        {
+            "user_id": 3455323340, 
+            "features": {
+                "screen_name": "imhythar", 
+                "location": "Madurai", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Madurai", 
+                "id": 3455323340, 
+                "name": "\u0baa\u0bcb\u0ba4\u0bc8\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0ba9\u0bcd\ud83c\udf20"
+            }
+        }, 
+        {
+            "user_id": 1063692014020001794, 
+            "features": {
+                "screen_name": "Bedanta47677241", 
+                "location": "India", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "India", 
+                "id": 1063692014020001794, 
+                "name": "Only Sidharth Shukla Matters\u2764"
+            }
+        }, 
+        {
+            "user_id": 1213821035952259072, 
+            "features": {
+                "screen_name": "SihagRaghav", 
+                "location": "Rajasthan, India", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Rajasthan, India", 
+                "id": 1213821035952259072, 
+                "name": "Raghav_Sihag"
+            }
+        }, 
+        {
+            "user_id": 1145527535066931200, 
+            "features": {
+                "screen_name": "iRiyadhRS", 
+                "location": "Riyadh", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Riyadh", 
+                "id": 1145527535066931200, 
+                "name": "Riyadh Real Estate \u0639\u0642\u0627\u0631\u0627\u062a \u0627\u0644\u0631\u064a\u0627\u0636"
+            }
+        }, 
+        {
+            "user_id": 1186912173886341120, 
+            "features": {
+                "screen_name": "Saif82650039", 
+                "location": "India", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "India", 
+                "id": 1186912173886341120, 
+                "name": "SidSaif"
+            }
+        }, 
+        {
+            "user_id": 926382141759508481, 
+            "features": {
+                "screen_name": "HMbyClare", 
+                "location": "Norwich, England", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Norwich, England", 
+                "id": 926382141759508481, 
+                "name": "HM By Clare"
+            }
+        }, 
+        {
+            "user_id": 1218847536179380224, 
+            "features": {
+                "screen_name": "om_clear", 
+                "location": "Odisha", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Odisha", 
+                "id": 1218847536179380224, 
+                "name": "OM Clear As Real"
+            }
+        }, 
+        {
+            "user_id": 1209492197881462785, 
+            "features": {
+                "screen_name": "PoolaSreevidya", 
+                "location": "Andhra Pradesh, India", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Andhra Pradesh, India", 
+                "id": 1209492197881462785, 
+                "name": "Sreevidya Poola"
+            }
+        }, 
+        {
+            "user_id": 953295979733712896, 
+            "features": {
+                "screen_name": "nashlinecountry", 
+                "location": "Nashville, TN", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Nashville, TN", 
+                "id": 953295979733712896, 
+                "name": "Nashline Country"
+            }
+        }, 
+        {
+            "user_id": 1213515537839341569, 
+            "features": {
+                "screen_name": "Suman78987908", 
+                "location": "Delhi ,india", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Delhi ,india", 
+                "id": 1213515537839341569, 
+                "name": "Suman"
+            }
+        }, 
+        {
+            "user_id": 730914080031145984, 
+            "features": {
+                "screen_name": "bloodbearblood", 
+                "location": "Borkowo Ko\u015bcielne 36", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Borkowo Ko\u015bcielne 36", 
+                "id": 730914080031145984, 
+                "name": "Mariusz Nied\u017awiecki"
+            }
+        }, 
+        {
+            "user_id": 1029089245, 
+            "features": {
+                "screen_name": "Gasuza_Tiziano", 
+                "location": "Burundi \ud83c\udde7\ud83c\uddee ", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Burundi \ud83c\udde7\ud83c\uddee ", 
+                "id": 1029089245, 
+                "name": "Haza Ninkushwera \ud83d\udd1e"
+            }
+        }, 
+        {
+            "user_id": 3006084121, 
+            "features": {
+                "screen_name": "meerashrees", 
+                "location": "india", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "india", 
+                "id": 3006084121, 
+                "name": "Meera @SidHeart \u2764\ufe0f"
+            }
+        }, 
+        {
+            "user_id": 953311397294862337, 
+            "features": {
+                "screen_name": "arora_dia", 
+                "location": "india", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "india", 
+                "id": 953311397294862337, 
+                "name": "Dia Arora"
+            }
+        }, 
+        {
+            "user_id": 1224108599754006529, 
+            "features": {
+                "screen_name": "SalemsCollar", 
+                "location": "Riverdale", 
+                "tweets": 1, 
+                "geo_type": "User location", 
+                "primary_geo": "Riverdale", 
+                "id": 1224108599754006529, 
+                "name": "Webcomic Explorer"
+            }
+        }
+    ]
+}
